@@ -10,7 +10,12 @@
 
 
 ### Interest
-- Google Cloud Platform(Especially, BigQuery)
+- Connectionist models (PDP models): deep learning, neural information processing
+- Cognitive science: computational models of cognitive processes. understand how the brain works on an algorithmic level.
+- Language models for machine learning
+- Natural Language Processing
+- Learning inference and knowledge structures
+- Cloud ComputingGoogle Cloud Platform(Especially, BigQuery)
 
 <div align=center>
 
