@@ -5,8 +5,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fconatusss)](https://hits.seeyoufarm.com)
 </div>
 
-### CS
-- M
+### Status
+- Grad @ Chungnam Science High School
+- CS undergrad @ Sogang U.
 
 
 ### Interest
