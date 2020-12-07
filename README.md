@@ -11,6 +11,9 @@
 
 
 ### Interest
+- XAI
+- Data Visualization
+- Neural Networks
 - Connectionist models (PDP models): deep learning, neural information processing
 - Cognitive science: computational models of cognitive processes. understand how the brain works on an algorithmic level.
 - Language models for machine learning
@@ -20,7 +23,7 @@
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://conatusss.github.io/)](https://conatusss.github.io/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://underthelights.github.io/)](https://underthelights.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shim-kyu-hwan-a95b31198/)](https://www.linkedin.com/in/shim-kyu-hwan-a95b31198/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skh7343@cnsh.hs.kr)](mailto:skh7343@cnsh.hs.kr)
 </div>
