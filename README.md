@@ -19,7 +19,7 @@
 - Language models for machine learning
 - Natural Language Processing
 - Learning inference and knowledge structures
-- Cloud ComputingGoogle Cloud Platform(Especially, BigQuery)
+- Cloud Computing : GCP(Especially, BigQuery)
 
 <div align=center>
 
