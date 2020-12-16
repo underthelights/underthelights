@@ -15,7 +15,8 @@
 - Data Visualization
 - Neural Networks
 - Connectionist models (PDP models): deep learning, neural information processing
-- Cognitive science: computational models of cognitive processes. understand how the brain works on an algorithmic level.
+- Cognitive science : computational models of cognitive processes. understand how the brain works on an algorithmic level.
+- Neural Architecture
 - Language models for machine learning
 - Natural Language Processing
 - Learning inference and knowledge structures
@@ -29,7 +30,7 @@
 </div>
 
 <!--
-**conatusss/conatusss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**underthelights/underthelights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
