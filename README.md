@@ -1,4 +1,4 @@
-### veritasluxmea 👋
+### ✨ 
 
 <div align=center>
 
