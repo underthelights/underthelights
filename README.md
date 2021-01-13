@@ -10,7 +10,16 @@
 - CS undergrad @ Sogang U.
 
 
-### Interest
+### Interest 
+#### Recommendation System
+#### Computational Neurology - especially for, GAN + Brain Signal
+#### Drug Prediction Discovery
+#### Music Information Retrieval
+#### XAI & Data Visualization
+#### AutoML
+
+
+--------
 - XAI
 - Data Visualization
 - Neural Networks
