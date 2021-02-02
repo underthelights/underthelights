@@ -1,6 +1,6 @@
 ### ✨ 
 
-[CV](https://github.com/underthelights/underthelights/files/5909293/cv.pdf)
+[CV](https://github.com/underthelights/underthelights/files/5909297/cv_KyuHwanShim.pdf)
 
 <div align=center>
 
