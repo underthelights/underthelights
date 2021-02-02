@@ -16,6 +16,7 @@
 #### Drug Prediction Discovery
 #### Music Information Retrieval
 #### XAI & Data Visualization
+#### OCR
 #### AutoML
 
 
