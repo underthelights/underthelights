@@ -1,6 +1,7 @@
 ### ✨ 
 
-[CV](cv.pdf)
+[CV](https://github.com/underthelights/underthelights/files/5909293/cv.pdf)
+
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fconatusss)](https://hits.seeyoufarm.com)
