@@ -9,8 +9,6 @@ KyuHwan, Shim [@underthelights](https://underthelights.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shim-kyu-hwan-a95b31198/)](https://www.linkedin.com/in/shim-kyu-hwan-a95b31198/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skh7343@cnsh.hs.kr)](mailto:skh7343@cnsh.hs.kr)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skh7343)](https://solved.ac/skh7343)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funderthelights&count_bg=%2361625C&title_bg=%23000000&icon=lighthouse.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
@@ -46,3 +44,8 @@ KyuHwan, Shim [@underthelights](https://underthelights.github.io)
 - Facebook: http://fb.com/s.kyuhwn
 - instagram: https://instagram.com/s.kyuhwn
 - email: [skh7343@cnsh.hs.kr](mailto:skh7343@cnsh.hs.kr)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skh7343)](https://solved.ac/skh7343)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=underthelights)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underthelights)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=underthelights)](https://github.com/anuraghazra/github-readme-stats)
