@@ -32,6 +32,7 @@ KyuHwan, Shim [@underthelights](https://underthelights.github.io)
 - **OCR Technology**
 - *HCI/UX*
 	- XAI with Data Visualization
+	- VR, HCI
 - *AutoML*
 	- algorithmic bases
 
