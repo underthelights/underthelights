@@ -17,28 +17,28 @@ KyuHwan, Shim [@underthelights](https://underthelights.github.io)
 - Joined the OCONNECT, Ulsan, Korea, as a **Cheif Research Officer**, in 2019
 
 ### 🌱 Interest
+- *HCI/UX*
+	- AR Interface for DL-enabled Interactive Applications
 - *Recommendation System*
-    - Classification
-    - Sentiment Analysis
+	- Classification
+	- Sentiment Analysis
 - *Music Information Retrieval*
 - *Computational Neurology*
 	- GAN with Brain Signal
 - *Drug Prediction Discovery*
-    - Style Transfer
+	- Style Transfer
+
+### 👯 Side Jobs & Hobby
+- [OCONNECT](https://oconnect3.netlify.app) Research Officer
+- [Research Writing](https://underthelights.github.io)
+
 - **Learning Theory**
     - Weakly-Supervised Learning
     - Semi-Supervised Learning
     - Self-Supervised Learning
 - **OCR Technology**
-- *HCI/UX*
-	- XAI with Data Visualization
-	- VR, HCI
 - *AutoML*
 	- algorithmic bases
-
-### 👯 Side Jobs & Hobby
-- [OCONNECT](https://oconnect3.netlify.app) Research Officer
-- [Research Writing](https://underthelights.github.io)
 
 ### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/kyuhwan-shim-a95b31198/
