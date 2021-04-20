@@ -1,6 +1,8 @@
 KyuHwan, Shim [@underthelights](https://underthelights.github.io)
  ✨ 
  
+better with [Notion](https://notion.so/skyhwn)
+ - for daily thoughts, visions, specifications, etc.
  
 [CV (eng, Feb 04. 2021)](https://github.com/underthelights/underthelights/files/5936838/cv2_KyuHwanShim.pdf)
 
