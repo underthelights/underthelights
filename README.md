@@ -21,6 +21,7 @@ better with [Notion](https://notion.so/skyhwn)
 ### 🌱 Interest
 - *HCI/UX*
 	- AR Interface for DL-enabled Interactive Applications
+\\<!-- 
 - *Recommendation System*
 	- Classification
 	- Sentiment Analysis
@@ -29,11 +30,11 @@ better with [Notion](https://notion.so/skyhwn)
 	- GAN with Brain Signal
 - *Drug Prediction Discovery*
 	- Style Transfer
-
+-->
 ### 👯 Side Jobs & Hobby
 - [OCONNECT](https://oconnect3.netlify.app) Research Officer
 - [Research Writing](https://underthelights.github.io)
-
+\\<!-- 
 - **Learning Theory**
     - Weakly-Supervised Learning
     - Semi-Supervised Learning
@@ -41,7 +42,7 @@ better with [Notion](https://notion.so/skyhwn)
 - **OCR Technology**
 - *AutoML*
 	- algorithmic bases
-
+-->
 ### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/kyuhwan-shim-a95b31198/
 - Facebook: http://fb.com/s.kyuhwn
