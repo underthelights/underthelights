@@ -8,7 +8,7 @@ better with [Notion](https://notion.so/skyhwn)
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://underthelights.github.io/)](https://underthelights.github.io/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shim-kyu-hwan-a95b31198/)](https://www.linkedin.com/in/shim-kyu-hwan-a95b31198/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shim-kyu-hwan-a95b31198/)](https://www.linkedin.com/in/shim-kyu-hwan/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skh7343@cnsh.hs.kr)](mailto:skh7343@cnsh.hs.kr)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funderthelights&count_bg=%2361625C&title_bg=%23000000&icon=lighthouse.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -21,7 +21,10 @@ better with [Notion](https://notion.so/skyhwn)
 ### 🌱 Interest
 - *HCI/UX*
 	- AR Interface for DL-enabled Interactive Applications
-\\<!-- 
+
+### 👯 Side Jobs & Hobby
+- [OCONNECT](https://oconnect3.netlify.app) Research Officer
+- [Research Writing](https://underthelights.github.io)
 - *Recommendation System*
 	- Classification
 	- Sentiment Analysis
@@ -30,18 +33,7 @@ better with [Notion](https://notion.so/skyhwn)
 	- GAN with Brain Signal
 - *Drug Prediction Discovery*
 	- Style Transfer
--->
-### 👯 Side Jobs & Hobby
-- [OCONNECT](https://oconnect3.netlify.app) Research Officer
-- [Research Writing](https://underthelights.github.io)
-\\<!-- 
-- **Learning Theory**
-    - Weakly-Supervised Learning
-    - Semi-Supervised Learning
-    - Self-Supervised Learning
-- **OCR Technology**
-- *AutoML*
-	- algorithmic bases
+
 -->
 ### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/kyuhwan-shim-a95b31198/
