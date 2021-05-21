@@ -15,8 +15,8 @@ better with [Notion](https://notion.so/skyhwn)
 
 
 ### 🔭 Career
-- Undergraduate in Computer Science & Engineering, @ Sogang University, Seoul, Korea, since 2019
-- Joined the OCONNECT, Ulsan, Korea, as a **Cheif Research Officer**, in 2019
+- Undergraduate in Computer Science & Engineering, @ Sogang University, Seoul, Korea, Since 2019
+- OCONNECT as **Cheif Research Officer** @ UNIST, Ulsan, Korea, Since 2019
 
 ### 🌱 Interest
 - *HCI/UX*
@@ -25,23 +25,14 @@ better with [Notion](https://notion.so/skyhwn)
 ### 👯 Side Jobs & Hobby
 - [OCONNECT](https://oconnect3.netlify.app) Research Officer
 - [Research Writing](https://underthelights.github.io)
-- *Recommendation System*
-	- Classification
-	- Sentiment Analysis
-- *Music Information Retrieval*
-- *Computational Neurology*
-	- GAN with Brain Signal
-- *Drug Prediction Discovery*
-	- Style Transfer
 
--->
 ### 📫 How to reach me
-- linkedin: https://www.linkedin.com/in/kyuhwan-shim-a95b31198/
-- Facebook: http://fb.com/s.kyuhwn
-- instagram: https://instagram.com/s.kyuhwn
-- email: [skh7343@cnsh.hs.kr](mailto:skh7343@cnsh.hs.kr)
+- at [linkedin](https://www.linkedin.com/in/kyuhwan-shim/)
+- at [Facebook](http://fb.com/s.kyuhwn)
+- at [instagram](https://instagram.com/s.kyuhwn)
+- via [mail](mailto:skh7343@cnsh.hs.kr)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skh7343)](https://solved.ac/skh7343)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skh7343)](https://solved.ac/skh7343)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=underthelights)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underthelights)](https://github.com/anuraghazra/github-readme-stats)
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=underthelights)](https://github.com/anuraghazra/github-readme-stats)
