@@ -1,38 +1,28 @@
-KyuHwan Shim [@underthelights](https://underthelights.github.io) ✨ 
+### <div align="center">KyuHwan Shim </div>  
 
-[CV (eng, Feb 04. 2021)](https://github.com/underthelights/underthelights/files/5936838/cv2_KyuHwanShim.pdf)
+Undergraduate **Sogang University, Computer Science & Engineering** 
+Graduated **Chungnam Science High School**
 
+Developer interested in **Machine Learning & Deep Learning** / **Data Science** / **Problem Solving**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funderthelights&count_bg=%2361625C&title_bg=%23000000&icon=lighthouse.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+❓ contact via [e-mail](mailto:skh7343@cnsh.hs.kr)
 
+📄 [GitBlog](underthelights.github.io)  
 
-### 🔭 Career
-- Undergrad. in Computer Science & Engineering, @ Sogang University, Seoul, Korea, Since 2019
-- [OCONNECT](https://oconnect4.netlify.app/) as **Research Officer** @ UNIST, Ulsan, Korea, Since 2019
+<div align="center">
+<a href="https://github.com/underthelights" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/s.kyuhwn" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/underthelights" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-### 🌱 Interest
-- *HCI/UX*
-	- AR Interface for DL-enabled Interactive Applications
+​    
 
-### 👯 Side Jobs & Hobby
-- [OCONNECT](https://oconnect3.netlify.app) Research Officer
-- [Research Writing](https://underthelights.github.io)
+<div align='center'> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skh7343"></div>  
 
-### 📫 How to reach me
-- at [linkedin](https://www.linkedin.com/in/kyuhwan-shim/)
-- at [Facebook](http://fb.com/s.kyuhwn)
-- at [instagram](https://instagram.com/s.kyuhwn)
-- via [mail](mailto:skh7343@cnsh.hs.kr)
-
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://underthelights.github.io/)](https://underthelights.github.io/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shim-kyu-hwan-a95b31198/)](https://www.linkedin.com/in/shim-kyu-hwan/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skh7343@cnsh.hs.kr)](mailto:skh7343@cnsh.hs.kr)
-
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skh7343)](https://solved.ac/skh7343)
-
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=underthelights)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underthelights)](https://github.com/anuraghazra/github-readme-stats)
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funderthelights&count_bg=%2361625C&title_bg=%23000000&icon=lighthouse.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
