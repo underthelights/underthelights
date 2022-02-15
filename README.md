@@ -6,6 +6,7 @@ Graduated **Chungnam Science High School**
 Developer interested in **Machine Learning & Deep Learning** / **Data Science** / **Problem Solving**
 
 ❓ contact via [e-mail](mailto:skh7343@cnsh.hs.kr)
+❓ [Curriculum Vitae](https://drive.google.com/file/d/1SdZyqbCdxSSMFUxbxeNmoF2cXDYhFfuN/view?usp=sharing)
 
 📄 [GitBlog](underthelights.github.io)  
 
