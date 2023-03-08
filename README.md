@@ -1,14 +1,36 @@
-### <div align="center">KyuHwan Shim </div>  
+## <div align="center">Kyuhwan Shim </div>  
 
-Undergraduate **Sogang University, Computer Science & Engineering** 
-Graduated **Chungnam Science High School**
+<div align="center"> [E-mail](mailto:skh7343@cnsh.hs.kr) / [Curriculum Vitae](https://underthelights.github.io/cv.pdf)
+/ [📄 GitBlog](https://underthelights.github.io)  </div>
 
-Developer interested in **Machine Learning & Deep Learning** / **Data Science** / **Problem Solving**
+### ⭐️ Work Experience
+- [Nota Inc.](https://nota.ai), Seoul, Korea
+    - **ML Engineer Intern**
+    - Since 2023.03.
+- [OCONNECT](https://oconnect.kr), Ulsan, Korea
+    - Student Venture from UNIST
+    - ONE STEP, an easy-insert socket
+    - Since 2020.06.
 
-❓ contact via [e-mail](mailto:skh7343@cnsh.hs.kr)
-❓ [Curriculum Vitae](https://drive.google.com/file/d/1SdZyqbCdxSSMFUxbxeNmoF2cXDYhFfuN/view?usp=sharing)
+### ✏️ Education 
+- Sogang University, Seoul, Korea 
+    - Since 2019.03.
+    - Undergrad @ **Computer Science**
+- Chungnam Science High School, Chungcheongnam-do, Korea
+    - Informatica, an Informatics Group
 
-📄 [GitBlog](underthelights.github.io)  
+### 🌱 I’m currently learning
+- YOLO
+    - Object Detection
+- Natural Language Processing
+    - Language Model
+
+
+### 💻 My Tech Stack
+- **Programming Languages**: Python, C
+- **DL Frameworks**: Tensorflow(+ Keras), Pytorch
+
+<!-- - **Infrastructures**: Docker, Kubernetes, GCP, AWS, Kubeflow -->
 
 <div align="center">
 <a href="https://github.com/underthelights" target="_blank">
