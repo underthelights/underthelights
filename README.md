@@ -1,7 +1,7 @@
 ## <div align="center">Kyuhwan Shim </div>  
 
-<div align="center"> [E-mail](mailto:skh7343@cnsh.hs.kr) / [Curriculum Vitae](https://underthelights.github.io/cv.pdf)
-/ [📄 GitBlog](https://underthelights.github.io)  </div>
+[E-mail](mailto:skh7343@cnsh.hs.kr) / [Curriculum Vitae](https://underthelights.github.io/cv.pdf)
+/ [📄 GitBlog](https://underthelights.github.io)  
 
 ### ⭐️ Work Experience
 - [Nota Inc.](https://nota.ai), Seoul, Korea
