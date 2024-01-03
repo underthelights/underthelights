@@ -1,36 +1,12 @@
-## <div align="center">Kyuhwan Shim </div>  
+## <div align="center"> Kyuhwan Shim 🤗 </div>  
+- Undergraduate Research Intern @ the [BI Lab](https://bi.snu.ac.kr), [Seoul Nat'l University](https://cse.snu.ac.kr)
+- Senior Undergraduate majoring Computer Science 💻 @ [Sogang University](https://cs.sogang.ac.kr)
+- Previously,
+  - ML Engineer Intern @ [Nota Inc.](https://nota.ai), Seoul, Korea (23.03 ~ 23.08)
+  - Designer @ [OCONNECT](https://oconnect.kr), Ulsan, Korea (20.06 ~ 23.06)
+- Links
+  - [E-mail](mailto:kyuhwan.shim@sogang.ac.kr) / [Curriculum Vitae](https://underthelights.github.io/cv.pdf)/ [📄 GitBlog](https://underthelights.github.io)  
 
-[E-mail](mailto:skh7343@cnsh.hs.kr) / [Curriculum Vitae](https://underthelights.github.io/cv.pdf)
-/ [📄 GitBlog](https://underthelights.github.io)  
-
-### ⭐️ Work Experience
-- [Nota Inc.](https://nota.ai), Seoul, Korea
-    - **ML Engineer Intern**
-    - Since 2023.03.
-- [OCONNECT](https://oconnect.kr), Ulsan, Korea
-    - Student Venture from UNIST
-    - ONE STEP, an easy-insert socket
-    - Since 2020.06.
-
-### ✏️ Education 
-- Sogang University, Seoul, Korea 
-    - Since 2019.03.
-    - Undergrad @ **Computer Science**
-- Chungnam Science High School, Chungcheongnam-do, Korea
-    - Informatica, an Informatics Group
-
-### 🌱 I’m currently learning
-- YOLO
-    - Object Detection
-- Natural Language Processing
-    - Language Model
-
-
-### 💻 My Tech Stack
-- **Programming Languages**: Python, C
-- **DL Frameworks**: Tensorflow(+ Keras), Pytorch
-
-<!-- - **Infrastructures**: Docker, Kubernetes, GCP, AWS, Kubeflow -->
 
 <div align="center">
 <a href="https://github.com/underthelights" target="_blank">
@@ -44,8 +20,7 @@
 </a>  
 </div>  
 
-​    
 
-<div align='center'> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skh7343"></div>  
+<div align='center'> <img width="300 " src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skh7343"></div>  
 
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funderthelights&count_bg=%2361625C&title_bg=%23000000&icon=lighthouse.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
