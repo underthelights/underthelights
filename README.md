@@ -1,7 +1,10 @@
 ## Greetings ! I am Kyuhwan Shim 🤗
 
 **Master's Student @ Graduate School of AI**
+
 Seoul National University
+
+[[cv]([underthelights.github.io/cv](https://underthelights.github.io/cv))](https://underthelights.github.io/cv)
 
 <p align="left">
   <a href="mailto:khshim@bi.snu.ac.kr">
