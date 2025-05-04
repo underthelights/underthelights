@@ -9,16 +9,30 @@
 📫 kyuhwan.shim@snu.ac.kr  
 🔗 [Website](https://underthelights.github.io)
 
-
 ## Contact
-kyuhwan.shim (at) snu (dot) ac (dot) kr
 
+<p style="font-size: 1rem; font-weight: 400;">
+  📧 kyuhwan.shim (at) snu (dot) ac (dot) kr
+</p>
 
-## Links
-- [E-mail](mailto:kyuhwan.shim@snu.ac.kr)
-- [Curriculum Vitae](https://underthelights.github.io/cv.pdf)
-- [📄 GitBlog](https://underthelights.github.io)
+<div class="mt-3 d-flex flex-wrap align-items-center" style="gap: 0.8rem;">
+  <a href="mailto:kyuhwan.shim@snu.ac.kr" 
+     class="btn btn-outline-secondary d-flex align-items-center shadow-sm" 
+     style="padding: 0.5rem 1.1rem; font-size: 0.95rem;">
+    <i class="fa-solid fa-envelope me-2"></i> Email
+  </a>
 
-## DEV
-<!-- 0. Make sure you have Jekyll environment ready - if you haven't, run `gem install bundler` -->
-Go to the project directory and run `bundle exec jekyll serve`
+  <a href="https://underthelights.github.io/cv.pdf" 
+     class="btn btn-outline-primary d-flex align-items-center shadow-sm" 
+     target="_blank" rel="noopener noreferrer"
+     style="padding: 0.5rem 1.1rem; font-size: 0.95rem;">
+    <i class="fa-solid fa-file-lines me-2"></i> Curriculum Vitae
+  </a>
+
+  <a href="https://underthelights.github.io" 
+     class="btn btn-outline-dark d-flex align-items-center shadow-sm" 
+     target="_blank" rel="noopener noreferrer"
+     style="padding: 0.5rem 1.1rem; font-size: 0.95rem;">
+    <i class="fa-solid fa-blog me-2"></i> GitBlog
+  </a>
+</div>
