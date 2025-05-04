@@ -1,21 +1,24 @@
-## Greetings ! I am Kyuhwan Shim 🤗
+### Greetings! I'm Kyuhwan Shim. 🤗 
 
-**Master's Student @ Graduate School of AI**
 
-Seoul National University
+🎓 I'm a graduate student at the [Graduate School of AI](https://gsai.snu.ac.kr), Seoul National University, advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang).
 
-[[cv]([underthelights.github.io/cv](https://underthelights.github.io/cv))](https://underthelights.github.io/cv)
 
-<p align="left">
-  <a href="mailto:khshim@bi.snu.ac.kr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://underthelights.github.io/cv.pdf">
-    <img src="https://img.shields.io/badge/Curriculum%20Vitae-35495E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Curriculum Vitae"/>
-  </a>
-  <a href="https://underthelights.github.io">
-    <img src ="https://img.shields.io/badge/blog-UNDERTHELIGHTS-blue?style=for-the-badge"/>
-  </a>
-</p>
+🤖 I'm broadly interested in **robotics**, **multimodal learning**, and **physical intelligence**.  My work focuses on developing **vision-language-action (VLA)** models to enable **generalist robot policies** that can robustly **perceive, reason, and act** in the real world.  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funderthelights&count_bg=%2361625C&title_bg=%23000000&icon=lighthouse.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+📫 kyuhwan.shim@snu.ac.kr  
+🔗 [Website](https://underthelights.github.io)
+
+
+## Contact
+kyuhwan.shim (at) snu (dot) ac (dot) kr
+
+
+## Links
+- [E-mail](mailto:kyuhwan.shim@snu.ac.kr)
+- [Curriculum Vitae](https://underthelights.github.io/cv.pdf)
+- [📄 GitBlog](https://underthelights.github.io)
+
+## DEV
+<!-- 0. Make sure you have Jekyll environment ready - if you haven't, run `gem install bundler` -->
+Go to the project directory and run `bundle exec jekyll serve`
